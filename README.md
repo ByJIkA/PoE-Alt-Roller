@@ -1,3 +1,9 @@
+## Alt Roller теперь в Exile EasyBuild
+
+Автокрафт встроен в Exile EasyBuild. Установщик, обновления и сообщения об ошибках доступны в [общем репозитории](https://github.com/ByJIkA/Exile-EasyBuild). Здесь сохранены прежние выпуски отдельного приложения.
+
+Alt Roller is now part of [Exile EasyBuild](https://github.com/ByJIkA/Exile-EasyBuild). Use the shared repository for downloads, updates and issue reports. This archive preserves the old standalone releases.
+
 # PoE-Alt-Roller
 
 Windows builds of Alt Roller for Path of Exile 1.

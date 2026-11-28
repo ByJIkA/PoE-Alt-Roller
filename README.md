@@ -1,3 +1,5 @@
+**Переход из старого приложения.** Нажми «Обновиться», затем «Перейти на EasyBuild». Сохранённые настройки подхватятся автоматически в том же профиле Windows. [Установщик EasyBuild](https://github.com/ByJIkA/Exile-EasyBuild/releases/latest).
+
 ## Alt Roller теперь в Exile EasyBuild
 
 Автокрафт встроен в Exile EasyBuild. Установщик, обновления и сообщения об ошибках доступны в [общем репозитории](https://github.com/ByJIkA/Exile-EasyBuild). Здесь сохранены прежние выпуски отдельного приложения.

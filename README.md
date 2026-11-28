@@ -1,4 +1,4 @@
-**Переход из старого приложения.** Нажми «Обновиться», затем «Перейти на EasyBuild». Сохранённые настройки подхватятся автоматически в том же профиле Windows. [Установщик EasyBuild](https://github.com/ByJIkA/Exile-EasyBuild/releases/latest).
+**Переход из старого приложения.** В старой версии нажми «Обновиться», затем «Перейти на EasyBuild». Если у тебя уже 1.0.30, закрой её и открой [новый файл перехода](https://github.com/ByJIkA/PoE-Alt-Roller/releases/latest). После запуска EasyBuild отдельный Alt Roller удалится. Сохранённые настройки подхватятся автоматически в том же профиле Windows.
 
 ## Alt Roller теперь в Exile EasyBuild
 
